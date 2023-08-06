@@ -65,6 +65,10 @@ export const router = createBrowserRouter([
         element: <PrivateRoute><Book></Book></PrivateRoute>
       },
       {
+        path: 'order',
+        element: <PrivateRoute><OrderList></OrderList></PrivateRoute>
+      },
+      {
         path: 'payments/success/:tranId',
         element: <PaymentSuccess></PaymentSuccess>
       },
@@ -83,10 +87,6 @@ export const router = createBrowserRouter([
       {
         path: 'manageService',
         element: <AdminRoute><ManageServices></ManageServices></AdminRoute>
-      },
-      {
-        path: 'order',
-        element: <AdminRoute><OrderList></OrderList></AdminRoute>
       }
     ]
   }
