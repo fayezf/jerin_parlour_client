@@ -4,7 +4,7 @@ const useServices = () => {
     // const [services, setServices] = useState([]);
     // const [loading, setLoading] = useState(true);
     // useEffect(() => {
-    //     fetch('http://localhost:5000/services')
+    //     fetch('https://jerins-parlour-server-five.vercel.app/services')
     //     .then(res => res.json())
     //     .then(data => {
     //         setServices(data);
@@ -15,7 +15,7 @@ const useServices = () => {
     const {data: services = [], isLoading: loading} = useQuery({
         queryKey: ['services'],
         queryFn: async () => {
-            const res = await fetch('http://localhost:5000/services');
+            const res = await fetch('https://jerins-parlour-server-five.vercel.app/services');
             return res.json();
         }
     })

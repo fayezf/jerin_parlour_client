@@ -5,7 +5,7 @@ const useFeatures = () => {
     const {data: features = [], isLoading: loading, refetch} = useQuery({
         queryKey: ['features'],
         queryFn: async () => {
-            const res = await fetch('http://localhost:5000/features');
+            const res = await fetch('https://jerins-parlour-server-five.vercel.app/features');
             return res.json();
         }
     })

@@ -12,7 +12,7 @@ const Book = () => {
         data.productItemId = id;
 
 
-        fetch('http://localhost:5000/payments', {
+        fetch('https://jerins-parlour-server-five.vercel.app/payments', {
             method: 'POST',
             headers: {
                 'content-type': 'application/json'

@@ -19,7 +19,7 @@ const SignUp = () => {
                 updateUserProfile(data.firstName, data.photoURL)
                     .then(() => {
                         const saveUser = {name: data.firstName, email: data.email}
-                        fetch('http://localhost:5000/users', {
+                        fetch('https://jerins-parlour-server-five.vercel.app/users', {
                             method: 'POST',
                             headers: {
                                 'content-type': 'application/json'

@@ -14,7 +14,7 @@ const FeaturesCard = ({ item }) => {
     const handleAddToProduct = item => {
         if (user && user?.email) {
             const productItem = {productItemId: _id, name, image, price, description, email: user?.email}
-            fetch('http://localhost:5000/products', {
+            fetch('https://jerins-parlour-server-five.vercel.app/products', {
                 method: 'POST',
                 headers: {
                     'content-type' : 'application/json'

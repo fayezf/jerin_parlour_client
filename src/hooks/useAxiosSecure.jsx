@@ -8,7 +8,7 @@ const useAxiosSecure = () => {
     const { logOut } = useAuth();
 
     const axiosSecure = axios.create({
-        baseURL: 'http://localhost:5000',
+        baseURL: 'https://jerins-parlour-server-five.vercel.app',
     });
 
     useEffect(() => {
