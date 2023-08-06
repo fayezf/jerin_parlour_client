@@ -29,11 +29,11 @@ const Dashboard = () => {
 
                     {
                         isAdmin ? <>
-                            <li><NavLink to="/dashboard/order"><FaShoppingBag />Order List</NavLink></li>
                             <li><NavLink to="/dashboard/addService"><FaPlus />Add Service</NavLink></li>
                             <li><NavLink to="/dashboard/manageService"><FaWallet />Manage Services</NavLink></li>
                             <li><NavLink to="/dashboard/allusers"><FaUsers />All Users</NavLink></li>
                         </> : <>
+                            <li><NavLink to="/dashboard/order"><FaShoppingBag />Order List</NavLink></li>
                             <li><NavLink to="/dashboard/mybook"><FaShoppingCart />Book</NavLink></li>
                             <li><NavLink to="/dashboard/booking"><FaBook />Booking List</NavLink></li>
                             <li><NavLink to="/dashboard/review"><FaRegCommentDots />Review</NavLink></li>
