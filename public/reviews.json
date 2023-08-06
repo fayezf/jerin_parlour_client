@@ -1,0 +1,43 @@
+[
+    {
+      "name": "Nash Patrik",
+      "companyPosition": "CEO, Manpol",
+      "rating": 4.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus commodo ipsum duis laoreet maecenas. Feugiat ",
+      "image": "https://i.ibb.co/jr6gPYk/patrick.png"
+    },
+    {
+      "name": "Miriam Barron",
+      "companyPosition": "CEO, Manpol",
+      "rating": 4.9,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus commodo ipsum duis laoreet maecenas. Feugiat ",
+      "image": "https://i.ibb.co/Tg1gtN9/miriam.png"
+    },
+    {
+      "name": "Bria Malone",
+      "companyPosition": "CEO, Manpol",
+      "rating": 3.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus commodo ipsum duis laoreet maecenas. Feugiat ",
+      "image": "https://i.ibb.co/qgSwRxL/malone.png"
+    },
+    {
+      "name": "Joy s. sloat",
+      "jobCategory": "Beauty expert",
+      "image": "https://themesvila.com/themes-wp/monalisa/wp-content/uploads/2017/01/team-1.jpg"
+    },
+    {
+      "name": "Myron j. baxter",
+      "jobCategory": "Beauty expert",
+      "image": "https://themesvila.com/themes-wp/monalisa/wp-content/uploads/2017/01/team-4.jpg"
+    },
+    {
+      "name": "Keith w. nelson",
+      "jobCategory": "Beauty expert",
+      "image": "https://themesvila.com/themes-wp/monalisa/wp-content/uploads/2017/01/team-3.jpg"
+    },
+    {
+      "name": "Nelson w. mira",
+      "jobCategory": "Messager",
+      "image": "https://themesvila.com/themes-wp/monalisa/wp-content/uploads/2017/01/team-2.jpg"
+    }
+  ]

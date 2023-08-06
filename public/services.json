@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Anti Age Face Treatment",
+    "price": 199,
+    "description": "We craft stunning and amazing web UI, using a well drrafted UX to fit your product.",
+    "image": "https://i.ibb.co/f059mbp/Group-1373.png"
+  },
+  {
+    "name": "Hair Color & Styling",
+    "price": 99,
+    "description": "Amazing flyers, social media posts and brand representations that would make your brand stand out.",
+    "image": "https://i.ibb.co/rm6g1nN/Group-1372.png"
+  },
+  {
+    "name": "Skin Care Treatment",
+    "price": 299,
+    "description": "With well written codes, we build amazing apps for all platforms, mobile and web apps in general.",
+    "image": "https://i.ibb.co/3c8TF2s/Group-1374.png"
+  },
+  {
+    "name": "Stone Massage",
+    "price": 100,
+    "description": "The stone massage is a form of alternative medicine massage therapy.",
+    "image": "https://themesvila.com/themes-wp/monalisa/wp-content/uploads/2017/01/service_3-1.jpg"
+  },
+  {
+    "name": "Face Treatment",
+    "price": 200,
+    "description": "A facial is a family of skin care treatments for the face, including steam, exfoliation, extraction, creams, lotions, facial masks, peels, and massage.",
+    "image": "https://themesvila.com/themes-wp/monalisa/wp-content/uploads/2017/01/service_2-1.jpg"
+  },
+  {
+    "name": "Body Massage",
+    "price": 300,
+    "description": "It is a form of manual therapy that includes holding, moving, and applying pressure to the muscles, tendons, ligaments and fascia.",
+    "image": "https://themesvila.com/themes-wp/monalisa/wp-content/uploads/2017/01/service_1-1.jpg"
+  }
+]
