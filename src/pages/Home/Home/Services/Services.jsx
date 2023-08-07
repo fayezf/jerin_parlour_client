@@ -7,7 +7,7 @@ const Services = () => {
     const [services] = useServices();
 
     return (
-        <div className='my-4 flex flex-col items-center'>
+        <div className='my-8 flex flex-col items-center'>
             <h2 className='text-2xl font-bold'>Our Awesome <span className='text-2xl font-bold text-[#F63E7B]'>Services</span></h2>
             <div className='grid grid-cols-1 md:grid-cols-3 gap-8 mt-4'>
                 {
