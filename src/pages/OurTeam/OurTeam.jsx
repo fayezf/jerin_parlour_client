@@ -13,7 +13,7 @@ const OurTeam = () => {
     return (
         <div className='flex flex-col items-center'>
             <h2 className='text-3xl text-center uppercase font-semibold my-4'>Jerin's <span className='text-[#F63E7B]'>Lovely</span> Team</h2>
-            <p className='text-center'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ratione cumque a sequi accusamus. Culpa nemo voluptate dicta. Incidunt maxime maiores <br /> accusantium consequuntur, autem quisquam rem iure inventore blanditiis dolores ipsam.</p>
+            <p className='text-center'>Meet the heart and hands behind Jerin's Parlour. Our lovely team of passionate professionals <br /> brings a wealth of experience and a genuine commitment to your beauty and well-being. With <br /> their skillful hands and warm hearts, they create a welcoming space where you can unwind and <br /> leave feeling your best. Get to know the faces that make Jerin's Parlour a place of beauty <br /> and connection.</p>
             <div className='grid grid-cols-1 md:grid-cols-4 mx-auto gap-16'>
                 {
                     teams?.map(team => <OurTeamCard

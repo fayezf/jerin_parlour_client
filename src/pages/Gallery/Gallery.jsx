@@ -17,7 +17,7 @@ const Gallery = () => {
                 <title>Jerins Parlour | Gallery</title>
             </Helmet>
             <h2 className='text-3xl text-center uppercase font-semibold my-4'>Jerin's <span className='text-[#F63E7B]'>Gallery</span></h2>
-            <p className='text-center'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione ullam omnis tempore et aliquid maxime quasi vitae illum saepe, <br /> rerum doloribus voluptates dolorem, temporibus ad fugit perferendis alias! Dolores, suscipit!</p>
+            <p className='text-center'>Explore our world of beauty through images. Our gallery showcases the exquisite hairstyling, flawless nail art, and <br /> glowing skincare transformations created at Jerins Parlour.See the expertise and dedication that define our <br /> services. Get a glimpse of the beauty that awaits you at Jerins Parlour</p>
             <div className='grid md:grid-cols-4 mt-8'>
                 <img src={img1} alt="" />
                 <img src={img2} alt="" />

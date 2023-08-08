@@ -13,7 +13,7 @@ const AboutUs = () => {
                 <div>
                     <h2 className='text-3xl font-semibold mb-2'>About Our <span className='text-[#F63E7B]'>Jerin's</span></h2>
                     <hr />
-                    <p className='text-justify p-4'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias asperiores architecto expedita at, aspernatur illum id, culpa voluptate eligendi dolorem deleniti ex harum, saepe tempora rem exercitationem est amet hic autem ipsa repudiandae temporibus ad dolores odio! Esse repellat dolorum rerum laborum odit. Labore, beatae iusto exercitationem, rem totam ullam iste quasi, consequuntur laborum sunt repellendus autem facilis cupiditate iure ipsa! At debitis dignissimos consequatur accusamus eveniet perspiciatis qui voluptates sint laudantium. Dolorem inventore iusto deleniti excepturi cumque quas quibusdam itaque, ipsum maxime fuga. Sed et eos ratione quod rerum nulla eum temporibus consequatur, omnis quo optio maxime laborum dolor.</p>
+                    <p className='text-justify p-4'>Welcome to Jerins Parlour, where beauty meets relaxation. Our team of skilled professionals is dedicated to providing top-notch hair, nail, and skincare services that leave you feeling rejuvenated and confident. With a commitment to using premium products and delivering personalized experiences, we ensure that every visit is a delightful escape from the everyday. Discover the perfect blend of expertise and pampering at Jerins Parlour.</p>
                 </div>
             </div>
         </div>
